@@ -12,7 +12,6 @@
 
 ---
 
-## PART 1: THE ORIGINAL PROBLEM
 
 ### Original Folder Structure (BEFORE Packaging)
 
