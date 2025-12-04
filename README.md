@@ -81,8 +81,6 @@ npm run dev
 
 ---
 
-## PART 2: THE SOLUTION - PACKAGING LIKE JUPYTER
-
 ### New Folder Structure (AFTER Packaging)
 
 ```
@@ -144,7 +142,7 @@ jardesigner/                                    # Root directory
 
 ---
 
-## PART 3: EVERY NEW FILE CREATED - DETAILED BREAKDOWN
+## EVERY NEW FILE CREATED 
 
 ### 1. setup.py - Package Configuration
 
