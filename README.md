@@ -296,7 +296,7 @@ readme = "README.md"
 requires-python = ">=3.7"
 license = {text = "GPL"}
 authors = [
-    {name = "Your Name", email = "your.email@example.com"}
+    {name = "Jayesh", email = "jacksray786@gmail.com"}
 ]
 dependencies = [
     "Flask>=3.1.1",
@@ -591,7 +591,7 @@ A Jupyter-like interface for building and simulating multiscale neuronal models.
 """
 
 __version__ = '0.1.0'
-__author__ = 'Your Name'
+__author__ = 'Jayesh'
 
 # Import key components for easy access
 from . import jardesigner
