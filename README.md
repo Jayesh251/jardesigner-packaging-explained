@@ -874,10 +874,3 @@ Both:
 - Serves web interface
 - Easy for non-developers
 
----
-
-## Summary
-
-This packaging transformation converted JARDesigner from a developer-focused manual setup into a user-friendly, pip-installable package. The key achievement was organizing the code into a proper Python package structure, creating a CLI entry point, bundling the frontend with the backend, and following Python packaging standards to enable distribution via PyPI.
-
-The result is a significantly improved user experience where anyone with Python can simply run `pip install jardesigner` and then `jardesigner` to start using the application, just like Jupyter Notebook.
