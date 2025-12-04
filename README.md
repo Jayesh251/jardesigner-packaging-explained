@@ -1,17 +1,4 @@
-# Complete JARDesigner Packaging Transformation Guide
-
-## Table of Contents
-1. [The Original Problem](#part-1-the-original-problem)
-2. [The Solution - Packaging Like Jupyter](#part-2-the-solution---packaging-like-jupyter)
-3. [Every New File Created - Detailed Breakdown](#part-3-every-new-file-created---detailed-breakdown)
-4. [Why Each Change Was Necessary](#part-4-why-each-change-was-necessary)
-5. [Complete Build and Deployment Process](#part-5-complete-build-and-deployment-process)
-6. [Comparison - Before vs After](#part-6-comparison---before-vs-after)
-7. [File Organization Summary](#part-7-file-organization-summary)
-8. [The Key Insight](#part-8-the-key-insight)
-
----
-
+# Complete JARDesigner Packaging
 
 ### Original Folder Structure (BEFORE Packaging)
 
